@@ -7,7 +7,7 @@
         "babel-polyfill": "^6.16.0",
         "eslint": "^3.10.2",
         "eslint-config-airbnb": "15.0.1",
-        "eslint-config-airbnb-base": "~11.2.0",
+        "eslint-config-airbnb-base": "~12.1.0",
         "eslint-import-resolver-node": "^0.3.1",
         "eslint-module-utils": "^2.0.0",
         "eslint-plugin-import": "^2.2.0",
