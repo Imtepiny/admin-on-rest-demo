@@ -12,7 +12,7 @@
         "eslint-module-utils": "^2.0.0",
         "eslint-plugin-import": "^2.2.0",
         "eslint-plugin-jsx-a11y": "5.0.1",
-        "eslint-plugin-react": "~7.0.1",
+        "eslint-plugin-react": "~7.18.3",
         "fakerest": "^1.2.1",
         "fetch-mock": "^5.5.0",
         "gh-pages": "^0.12.0",
